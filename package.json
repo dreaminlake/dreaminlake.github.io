@@ -1,0 +1,43 @@
+{
+  "name": "dreaminlake",
+  "version": "1.0.0",
+  "main": "/src/main.js",
+  "dependencies": {
+    "coordtransform": "^2.1.2",
+    "davidshimjs-qrcodejs": "0.0.2",
+    "disqus-php-api": "github:fooleap/disqus-php-api",
+    "flowchart.js": "^1.6.6",
+    "webpack-raphael": "^2.1.4",
+    "weixin-js-sdk": "^1.2.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^7.1.1",
+    "css-loader": "^0.28.1",
+    "extract-loader": "^0.1.0",
+    "extract-text-webpack-plugin": "^2.1.0",
+    "file-loader": "^0.11.1",
+    "html-loader": "^0.4.5",
+    "node-sass": "^4.5.2",
+    "path": "^0.12.7",
+    "postcss": "^6.0.3",
+    "postcss-loader": "^2.0.6",
+    "sass-loader": "^6.0.3",
+    "style-loader": "^0.18.2",
+    "url-loader": "^0.5.8",
+    "webpack": "^3.0.0"
+  },
+  "scripts": {
+    "jekyll": "webpack -p && jekyll s"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dreaminlake/dreaminlake.github.io.git"
+  },
+  "author": "dreaminlake",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dreaminlake/dreaminlake.github.io/issues"
+  },
+  "homepage": "https://github.com/dreaminlake/dreaminlake.github.io.git#readme",
+  "description": ""
+}

@@ -1,0 +1,30 @@
+encoding: utf-8
+#port: 5678
+#host: 0.0.0.0
+
+title: 梦里依稀的小湖
+keywords: [dreaminlake, 前端, 跑步]
+description: 'A foolish man could not always lose!'
+
+exclude: [webpack.config.js, package.json, Gemfile, Gemfile.lock, src, node_modules]
+gems: [jekyll-paginate, jemoji]
+
+permalink: /:title.html
+highlighter: rouge
+markdown: kramdown
+kramdown: 
+  auto_ids:       true
+  auto_id_prefix: 'id-'
+  toc_levels:     '2,3'
+  smart_quotes:   lsquo,rsquo,ldquo,rdquo
+emoji:
+    src: 'http://api.fooleap.org'
+paginate: 10
+repository: dreaminlake/dreaminlake.github.io
+
+nickname: dreaminlake
+home: http://dreaminlake.com
+api: http://api.fooleap.org
+IMG_PATH: http://source.dreaminlake.com
+tongji: ' '
+analytics: ' '
