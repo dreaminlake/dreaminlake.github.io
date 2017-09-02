@@ -3,8 +3,8 @@ encoding: utf-8
 #host: 0.0.0.0
 
 title: 梦里依稀的小湖
-keywords: [dreaminlake, 前端, 跑步]
-description: 'A foolish man could not always lose!'
+keywords: [dreaminlake, 花生米, 梦里依稀的小湖]
+description: '有些事，记下来是不错的选择...'
 
 exclude: [webpack.config.js, package.json, Gemfile, Gemfile.lock, src, node_modules]
 gems: [jekyll-paginate, jemoji]
@@ -24,7 +24,7 @@ repository: dreaminlake/dreaminlake.github.io
 
 nickname: dreaminlake
 home: http://dreaminlake.com
-api: http://api.fooleap.org
+api: http://api.dreaminlake.com
 IMG_PATH: http://source.dreaminlake.com
 tongji: ' '
-analytics: ' '
+analytics: 'UA-78691951-1'

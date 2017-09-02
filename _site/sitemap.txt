@@ -10,12 +10,9 @@ http://dreaminlake.com/life.html
 http://dreaminlake.com/links.html
 http://dreaminlake.com/path-coord-converter/
 http://dreaminlake.com/posts.json
-http://dreaminlake.com/running-map.html
-http://dreaminlake.com/running.html
 http://dreaminlake.com/search.html
 http://dreaminlake.com/search.json
 http://dreaminlake.com/sitemap.txt
-http://dreaminlake.com/sttv/
 http://dreaminlake.com/tags.json
 http://dreaminlake.com/tags.html
 http://dreaminlake.com/tech.html
