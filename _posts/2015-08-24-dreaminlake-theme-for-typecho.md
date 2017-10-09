@@ -14,8 +14,8 @@ category: life
 主题名：梦里依稀的小湖
 
 版本号：1.0.0
-反馈：[http://dreaminlake.com](http://dreaminlake.com)
-下载：[http://pan.baidu.com/s/1dDtuPvN](http://pan.baidu.com/s/1dDtuPvN)&nbsp;密码: vxis
+反馈：[https://dreaminlake.com](https://dreaminlake.com)
+下载：[https://pan.baidu.com/s/1dDtuPvN](https://pan.baidu.com/s/1dDtuPvN)&nbsp;密码: vxis
 
 说明：
 1.自带独立页面归档（tpl_archive.php）、标签模板（tpl_tags.php）；

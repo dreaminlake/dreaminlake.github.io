@@ -26,7 +26,7 @@ touch /root/monitor/monitor.sh
 #how to:run the script every 1 minutes with crontab
 log_path="/root/monitor/atge.log"
 error_log_path="/root/monitor/atge_error.log"
-URL="http://dreaminlake.com/"
+URL="https://dreaminlake.com/"
 HTTP_CODE=`curl -o /dev/null -s -w "%{http_code}" "${URL}"`
 
 echo "`date '+%Y-%m-%d %H:%M:%S'` visit code = $HTTP_CODE">>$log_path

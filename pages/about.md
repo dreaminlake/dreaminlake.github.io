@@ -6,12 +6,12 @@ tags: [关于, 博客, 梦里依稀的小湖, blog]
 ---
 
 {% comment %}
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" height="52" style="width:280px;margin:0;" src="http://music.163.com/outchain/player?type=2&id=165614&auto=0&height=32"></iframe>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" height="52" style="width:280px;margin:0;" src="https://music.163.com/outchain/player?type=2&id=165614&auto=0&height=32"></iframe>
 好多年前，在某个网站听到这首曲子的背景音乐，听着有感觉，便将其扒了下来（[fmmusic.mid]({{ site.IMG_PATH }}/fmmusic.mid)，当年的文件，MIDI 格式的），听得多了，就感觉对自己来说有某种特殊的意义，后来才知道它的名字及由来。
 {% endcomment %}
 
-* 博客网址：[http://dreaminlake.com](http://dreaminlake.com)
-* Atom 订阅：[http://dreaminlake.com/atom.xml](/atom.xml)
+* 博客网址：[https://dreaminlake.com](https://dreaminlake.com)
+* Atom 订阅：[https://dreaminlake.com/atom.xml](/atom.xml)
 
 分享技术、记录点滴，这是 花生米 的个人博客。
 
@@ -38,8 +38,8 @@ tags: [关于, 博客, 梦里依稀的小湖, blog]
 
 ## 参考资料
 
-[1]: http://jekyllrb.com/ "Jekyll"
-[2]: http://daringfireball.net/projects/markdown/ "Markdown"
-[3]: http://www.qiniu.com "七牛云存储"
+[1]: https://jekyllrb.com/ "Jekyll"
+[2]: https://daringfireball.net/projects/markdown/ "Markdown"
+[3]: https://www.qiniu.com "七牛云存储"
 [4]: https://github.com/ "GitHub"
-[5]: http://creativecommons.org/licenses/by-nc/3.0/cn/ "署名-非商业性使用 3.0 中国大陆"
+[5]: https://creativecommons.org/licenses/by-nc/3.0/cn/ "署名-非商业性使用 3.0 中国大陆"

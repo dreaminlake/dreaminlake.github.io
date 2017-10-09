@@ -23,8 +23,8 @@ paginate: 10
 repository: dreaminlake/dreaminlake.github.io
 
 nickname: dreaminlake
-home: http://dreaminlake.com
-api: http://api.dreaminlake.com
-IMG_PATH: http://source.dreaminlake.com
+home: https://dreaminlake.com
+api: https://api.dreaminlake.com
+IMG_PATH: https://source.dreaminlake.com
 tongji: ' '
 analytics: 'UA-78691951-1'

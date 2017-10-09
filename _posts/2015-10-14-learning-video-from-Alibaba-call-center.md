@@ -11,16 +11,16 @@ category: life
 其中，包含了云客服基础课程和支付宝相关业务专业技能课程这两个培训，先给出云客服基础课程的培训视频。
 
         天猫必选课程——了解天猫
-        http://cloud.video.taobao.com/play/u/2113581401/e/1/t/1/p/1/29867853.swf
+        https://cloud.video.taobao.com/play/u/2113581401/e/1/t/1/p/1/29867853.swf
 
         云客服介绍及云工作台介绍
-        http://cloud.video.taobao.com/play/u/2113581401/e/1/t/1/p/1/29867196.swf
+        https://cloud.video.taobao.com/play/u/2113581401/e/1/t/1/p/1/29867196.swf
 
         云客服投诉提交规范及应对技巧
-        http://cloud.video.taobao.com/play/u/2113581401/e/1/t/1/p/1/29867559.swf
+        https://cloud.video.taobao.com/play/u/2113581401/e/1/t/1/p/1/29867559.swf
 
         质量标准及通用处理流程
-        http://cloud.video.taobao.com/play/u/2113581401/e/1/t/1/p/1/29867723.swf
+        https://cloud.video.taobao.com/play/u/2113581401/e/1/t/1/p/1/29867723.swf
 
         支付宝相关业务专业技能培训
-        http://cloud.video.taobao.com/play/u/2113581401/e/1/t/1/p/1/31094707.swf
+        https://cloud.video.taobao.com/play/u/2113581401/e/1/t/1/p/1/31094707.swf

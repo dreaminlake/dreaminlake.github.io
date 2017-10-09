@@ -25,9 +25,9 @@ category: tech
 
 ![ja-jp](https://ww4.sinaimg.cn/mw600/005PvELHgw1f4dhmthxakj30h00ckta7.jpg)
 
-<span style="color: rgb(255, 0, 0);">日语：</span>&nbsp;‫&nbsp;[64位版本](http://pan.baidu.com/s/1gdg0R1x)
+<span style="color: rgb(255, 0, 0);">日语：</span>&nbsp;‫&nbsp;[64位版本](https://pan.baidu.com/s/1gdg0R1x)
 
-<span style="color: rgb(255, 0, 0);">多国语言包：</span>&nbsp;[64位版本](http://pan.baidu.com/s/1pJMibBP) || [32位版本](http://pan.baidu.com/s/1c0z3P9e)
+<span style="color: rgb(255, 0, 0);">多国语言包：</span>&nbsp;[64位版本](https://pan.baidu.com/s/1pJMibBP) || [32位版本](https://pan.baidu.com/s/1c0z3P9e)
 
 多国语言包语言： English, Japanese, Korean, Arabic, Bulgarian, Czech, Danish, German, Greek, Spanish, Estonian, Finnish, French, Hebrew, Croatian, Hungarian, Italian, Lithuanian, Latvian, Dutch, Polish, Portuguese-Brazil, Romanian, Russian, Slovak, Slovenian, Serbian, Swedish, Thai, Turkish, Ukrainian, Chinese - Traditional, Chinese - Hong Kong SAR, Chinese - Simplified, Portuguese-Portugal, Norwegian-Bokmal
   

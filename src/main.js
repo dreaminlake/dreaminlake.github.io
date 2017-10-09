@@ -164,7 +164,7 @@ document.addEventListener('DOMContentLoaded', function(event) {
     'use strict';
     var disq = new iDisqus('comment', {
         forum: 'dreaminlake',
-        site: 'http://dreaminlake.com',
+        site: 'https://dreaminlake.com',
         api: 'http://api.fooleap.org/disqus',
         title:  page.title,
         url: page.url,

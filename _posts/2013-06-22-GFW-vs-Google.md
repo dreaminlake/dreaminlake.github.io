@@ -13,7 +13,7 @@ category: life
 
 一种是直接访问谷姐的全球通用网址，在后面加上/ncr =&gt;no country redirect，即 www.google.com/ncr ，它不会因为IP跳转到相应的国家语言；
 
-其实还可以利用 cmd -&gt;ping google.com 的IP地址通过http://+ 谷姐IP 来访问，这个就自己去ping了，@哥跟你的地方可能不一样哈；
+其实还可以利用 cmd -&gt;ping google.com 的IP地址通过谷姐IP 来访问，这个就自己去ping了，@哥跟你的地方可能不一样哈；
 
 然后还有修改hosts文件强制绑定DNS的方法，@哥忍，看到谷姐一大堆的IP地址就如编程什么的，有需要的去上 度娘和谷姐吧。
 

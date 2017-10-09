@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="https://www.w3.org/2005/Atom">
   <title>梦里依稀的小湖</title>
-  <link href="http://dreaminlake.com/atom.xml" rel="self" />
-  <link href="http://dreaminlake.com/"/>
-  <updated>2017-09-03T03:40:48+08:00</updated>
-  <id>http://dreaminlake.com</id>
+  <link href="https://dreaminlake.com/atom.xml" rel="self" />
+  <link href="https://dreaminlake.com/"/>
+  <updated>2017-10-10T03:38:15+08:00</updated>
+  <id>https://dreaminlake.com</id>
   <author>
     <name></name>
     <email></email>
@@ -12,7 +12,7 @@
   
     <entry>
       <title>Hexo中嵌入HTML5视频</title>
-      <link href="http://dreaminlake.com/how-to-use-HTML5-in-Hexo.html" />
+      <link href="https://dreaminlake.com/how-to-use-HTML5-in-Hexo.html" />
       <updated>2016-06-20T18:28:26+08:00</updated>
       <id>how-to-use-HTML5-in-Hexo</id>
       <summary type="text">这里表扬哈腾讯，国内几家视频网站，就鹅厂的可以自动切换Flash和html5视频，不装flash插件，也能愉快的追剧啦！HTML5正在逐渐的挤占Flash市场，Google已经宣称放弃Flash，转向HTML5，它家吸金产品Adwords，从2016年6月30日起，将不能再上传采用Flash制作的展示广告，自2017年1月起，AdWords将停止投放采用Flash格式的展示广告。网页开发者转向HTML5,Adobe也发布公告称，将鼓励内容创作者采用新的网络标准，例如HTML5，而不是Flash。
@@ -21,7 +21,7 @@ Hexo博客中可以插入腾讯优酷等网站的视频，倒是可以直接引�
   
     <entry>
       <title>Debian8 科学上网</title>
-      <link href="http://dreaminlake.com/Debian8-fuck-GFW.html" />
+      <link href="https://dreaminlake.com/Debian8-fuck-GFW.html" />
       <updated>2016-06-18T20:03:11+08:00</updated>
       <id>Debian8-fuck-GFW</id>
       <summary type="text">测试环境：debian-8.0-x86_64-minimal</summary>
@@ -29,7 +29,7 @@ Hexo博客中可以插入腾讯优酷等网站的视频，倒是可以直接引�
   
     <entry>
       <title>深圳通押金卡</title>
-      <link href="http://dreaminlake.com/shenzhentong-deposit-card.html" />
+      <link href="https://dreaminlake.com/shenzhentong-deposit-card.html" />
       <updated>2016-06-13T12:28:41+08:00</updated>
       <id>shenzhentong-deposit-card</id>
       <summary type="text">深圳通纪念卡每张卡需要50元工本费，而深圳通押金卡每张卡收取押金20元，押金卡用户可凭卡办理押金及卡内余额的全额退还手续，不收取任何费用。目前押金卡可在深圳通7个自营客服网点办理，退卡业务请前往深圳通自营客服网点及其他指定退卡网点办理，其余的地儿，都是50元的工本费了，所以看好下面的深圳通客服网点哦：</summary>
@@ -37,7 +37,7 @@ Hexo博客中可以插入腾讯优酷等网站的视频，倒是可以直接引�
   
     <entry>
       <title>愿你一切安好</title>
-      <link href="http://dreaminlake.com/say-good-for-girlfriend.html" />
+      <link href="https://dreaminlake.com/say-good-for-girlfriend.html" />
       <updated>2016-03-06T12:28:41+08:00</updated>
       <id>say-good-for-girlfriend</id>
       <summary type="text">致我可能有的未来女朋友，
@@ -51,7 +51,7 @@ Hexo博客中可以插入腾讯优酷等网站的视频，倒是可以直接引�
   
     <entry>
       <title>敢于直面惨淡的现实</title>
-      <link href="http://dreaminlake.com/face-that-fact.html" />
+      <link href="https://dreaminlake.com/face-that-fact.html" />
       <updated>2016-02-22T15:31:41+08:00</updated>
       <id>face-that-fact</id>
       <summary type="text">2015年，陷进了”我是谁，我要去哪里“，前后两家公司9天、2个月的经历，或许是在寻找自己想要的生活吧。对于知识的断层，想一口吃个大胖子，可能是在感叹老东家消耗了太多内力。这个点，再次做出转行的打算，是否晚了点？不得而知，介入任何一件事情的时间点，可能只有两个吧，一个点是十年前，一个点是现在。磨磨蹭蹭的想着自己的方向，发现差的太多，不知从何处下手了。或许，在学习东西之前，我该尝试着去创建自己的知识架构吧！
@@ -64,7 +64,7 @@ How-怎么学？碎片化时间学习，算一个热门的词，但静下来想�
   
     <entry>
       <title>ConoHa利用API安装Windows</title>
-      <link href="http://dreaminlake.com/use-API-to-install-Windows-for-ConoHa.html" />
+      <link href="https://dreaminlake.com/use-API-to-install-Windows-for-ConoHa.html" />
       <updated>2016-02-20T11:48:00+08:00</updated>
       <id>use-API-to-install-Windows-for-ConoHa</id>
       <summary type="text">本文尝试在Conoha东京机房，利用API来安装Windows2003，需要用于安装Windows2003的VPS、Xshell等工具（主要是连接上你的VPS并进行命令输入，或者其它VPS）、windows2003的镜像地址。</summary>
@@ -72,7 +72,7 @@ How-怎么学？碎片化时间学习，算一个热门的词，但静下来想�
   
     <entry>
       <title>阿里云客服和支付宝相关业务培训</title>
-      <link href="http://dreaminlake.com/learning-video-from-Alibaba-call-center.html" />
+      <link href="https://dreaminlake.com/learning-video-from-Alibaba-call-center.html" />
       <updated>2015-10-14T18:17:00+08:00</updated>
       <id>learning-video-from-Alibaba-call-center</id>
       <summary type="text">阿里的阿里众包最近搞了个新招培训，放给大家学学吧，好歹也是大公司制作的视频哦。
@@ -81,7 +81,7 @@ How-怎么学？碎片化时间学习，算一个热门的词，但静下来想�
   
     <entry>
       <title>Paypal壕气维护</title>
-      <link href="http://dreaminlake.com/Paypal-money.html" />
+      <link href="https://dreaminlake.com/Paypal-money.html" />
       <updated>2015-10-05T18:48:00+08:00</updated>
       <id>Paypal-money</id>
       <summary type="text">今天，一客户需要法国和德国的Windows 的VPS ，直接找了一家，支付后发现邮件有收到交易记录，但是账户及商户均无该笔交易记录…
@@ -90,7 +90,7 @@ How-怎么学？碎片化时间学习，算一个热门的词，但静下来想�
   
     <entry>
       <title>Google AdSense个人识别码(PIN)相关</title>
-      <link href="http://dreaminlake.com/Google-AdSense-PIN.html" />
+      <link href="https://dreaminlake.com/Google-AdSense-PIN.html" />
       <updated>2015-10-03T14:25:00+08:00</updated>
       <id>Google-AdSense-PIN</id>
       <summary type="text">当帐户Google AdSense满10美元时，谷歌就会从美利坚合众国寄一份平信给你，就是传说中的个人识别码(PIN)，个人坐标028的数据：8.28PIN生成，10.03收到这封平信，但由于很多站长收不到PIN码，Google就推出了“在线提交身份验证信息”服务，通过验证后就不用输入PIN了。</summary>
@@ -98,7 +98,7 @@ How-怎么学？碎片化时间学习，算一个热门的词，但静下来想�
   
     <entry>
       <title>云存储从又拍云转向七牛云</title>
-      <link href="http://dreaminlake.com/qiniu-vs-upyun.html" />
+      <link href="https://dreaminlake.com/qiniu-vs-upyun.html" />
       <updated>2015-09-28T23:34:00+08:00</updated>
       <id>qiniu-vs-upyun</id>
       <summary type="text">9.29更新：又拍云联盟持续免费，为了确认又拍云的诚信度，特邮件咨询了哈，获知这样信息：</summary>
@@ -106,7 +106,7 @@ How-怎么学？碎片化时间学习，算一个热门的词，但静下来想�
   
     <entry>
       <title>Windows10 语言包安装方法</title>
-      <link href="http://dreaminlake.com/how-to-install-jp-lpk-for-Windows10.html" />
+      <link href="https://dreaminlake.com/how-to-install-jp-lpk-for-Windows10.html" />
       <updated>2015-09-13T00:28:00+08:00</updated>
       <id>how-to-install-jp-lpk-for-Windows10</id>
       <summary type="text">这几天，无聊想玩玩日本游戏，发现需要小鬼子的游戏大部分都必须要日本windows来支撑，尽管有apploc或者No_Region Loader等转区软件，但是网上搜索来的要么被杀毒软件报毒，要么安装了没用，索性来个小鬼子语言包啦。</summary>
@@ -114,7 +114,7 @@ How-怎么学？碎片化时间学习，算一个热门的词，但静下来想�
   
     <entry>
       <title>得不到的永远在骚动</title>
-      <link href="http://dreaminlake.com/the-untouchable-ones-are-always-stiring.html" />
+      <link href="https://dreaminlake.com/the-untouchable-ones-are-always-stiring.html" />
       <updated>2015-09-12T22:50:00+08:00</updated>
       <id>the-untouchable-ones-are-always-stiring</id>
       <summary type="text">  《碟中谍5》正在热映，CCAV也比较给力，最近译制片启动联播模式。看到《碟中谍3》了，再见Maggie Q，不禁联想到《尼基塔》，蛮不错的一部片子。对其有这么深的回忆，还不是想起，当年在上海到重庆的动车上，和一个特别漂亮的动妹一起看《尼基塔》了。那时的自己，也是比较傻，没有要个电话号码，其实彼此都有点好感的。只怪年少无知，不懂得抓住机会，漂亮的妹纸，诱惑力是很高的！得不到的永远在骚动，被偏爱的，都有恃无恐！美丽的姑娘，早嫁人了吧，这或许就是缘分吧！张爱玲说：也许每一个男子全都有过这样的两个女人，至少两个。娶了红玫瑰，久而久之，红的变成了墙上的一抹蚊子血，白的还是“床前明月光”；娶了白玫瑰，白的便是衣服上的一粒饭粘子，红的却是心口上的一颗朱砂痣。</summary>
@@ -122,7 +122,7 @@ How-怎么学？碎片化时间学习，算一个热门的词，但静下来想�
   
     <entry>
       <title>你就是我最想要的丫头</title>
-      <link href="http://dreaminlake.com/you-are-my-lover.html" />
+      <link href="https://dreaminlake.com/you-are-my-lover.html" />
       <updated>2015-09-07T14:33:00+08:00</updated>
       <id>you-are-my-lover</id>
       <summary type="text">  在北京的每条胡同里，都住着一个灰姑娘，这姑娘跟一般的灰姑娘不一样，她是真的灰姑娘，身上到处都是灰。因为北京风沙特别大，而且北京胡同都是灰色的，为什么是灰色的？就是一刮风沙的时候，这姑娘就在胡同里跑，一跑扬的到处都是灰。这姑娘每天就灰头土脸的，我们北京管姑娘不叫姑娘，叫丫头，所以她是一灰丫头。</summary>
@@ -130,7 +130,7 @@ How-怎么学？碎片化时间学习，算一个热门的词，但静下来想�
   
     <entry>
       <title>电灯泡主题，还是信纸主题？</title>
-      <link href="http://dreaminlake.com/dreaminlake-theme-for-typecho.html" />
+      <link href="https://dreaminlake.com/dreaminlake-theme-for-typecho.html" />
       <updated>2015-08-24T19:24:00+08:00</updated>
       <id>dreaminlake-theme-for-typecho</id>
       <summary type="text">有些事情，记录下来是不错的选择……</summary>
@@ -138,7 +138,7 @@ How-怎么学？碎片化时间学习，算一个热门的词，但静下来想�
   
     <entry>
       <title>MySQL 1290 (HY000) error</title>
-      <link href="http://dreaminlake.com/MySQL-1290-HY000-error.html" />
+      <link href="https://dreaminlake.com/MySQL-1290-HY000-error.html" />
       <updated>2015-08-20T17:06:00+08:00</updated>
       <id>MySQL-1290-HY000-error</id>
       <summary type="text">最近用MySQL-Front管理MySQL数据库，发现动不动就出现ERROR 1290(HY000)…的错误：</summary>
@@ -146,7 +146,7 @@ How-怎么学？碎片化时间学习，算一个热门的词，但静下来想�
   
     <entry>
       <title>Typecho个性化优化常用解决方法</title>
-      <link href="http://dreaminlake.com/optimization-for-Typecho.html" />
+      <link href="https://dreaminlake.com/optimization-for-Typecho.html" />
       <updated>2015-08-19T22:01:00+08:00</updated>
       <id>optimization-for-Typecho</id>
       <summary type="text">一.Gravatar头像图片显示问题</summary>
@@ -154,7 +154,7 @@ How-怎么学？碎片化时间学习，算一个热门的词，但静下来想�
   
     <entry>
       <title>免费的云存储</title>
-      <link href="http://dreaminlake.com/free-cloud-computing.html" />
+      <link href="https://dreaminlake.com/free-cloud-computing.html" />
       <updated>2015-08-15T13:11:00+08:00</updated>
       <id>free-cloud-computing</id>
       <summary type="text">阿里推出的OSS，之前压根不知道怎么用，也没有去仔细观看过相关文档，最主要的还是由于是个试用品，后续要钱钱的，个人几个站有没有达到需要付出钱钱的必要，200元的体验卷，就让他随风而去吧。</summary>
@@ -162,7 +162,7 @@ How-怎么学？碎片化时间学习，算一个热门的词，但静下来想�
   
     <entry>
       <title>拥有一个梦想</title>
-      <link href="http://dreaminlake.com/try-to-have-a-dream.html" />
+      <link href="https://dreaminlake.com/try-to-have-a-dream.html" />
       <updated>2015-04-14T23:58:00+08:00</updated>
       <id>try-to-have-a-dream</id>
       <summary type="text">好好学习，天天向上</summary>
@@ -170,7 +170,7 @@ How-怎么学？碎片化时间学习，算一个热门的词，但静下来想�
   
     <entry>
       <title>狼性理财</title>
-      <link href="http://dreaminlake.com/wolf-management.html" />
+      <link href="https://dreaminlake.com/wolf-management.html" />
       <updated>2015-04-07T21:43:00+08:00</updated>
       <id>wolf-management</id>
       <summary type="text">投资有风险，入市需谨慎！千万别对投资太乐观，比较保守的预测规划，会带来更好的目标实现率和愉悦的心情，千万不要以为什么事都会按照您的意愿前行！</summary>
@@ -178,7 +178,7 @@ How-怎么学？碎片化时间学习，算一个热门的词，但静下来想�
   
     <entry>
       <title>互联网金融小白记</title>
-      <link href="http://dreaminlake.com/ITFIN-history.html" />
+      <link href="https://dreaminlake.com/ITFIN-history.html" />
       <updated>2015-04-07T02:05:00+08:00</updated>
       <id>ITFIN-history</id>
       <summary type="text">银行篇：</summary>
@@ -186,7 +186,7 @@ How-怎么学？碎片化时间学习，算一个热门的词，但静下来想�
   
     <entry>
       <title>散户经历</title>
-      <link href="http://dreaminlake.com/retail-invest-2.html" />
+      <link href="https://dreaminlake.com/retail-invest-2.html" />
       <updated>2015-03-20T23:39:00+08:00</updated>
       <id>retail-invest-2</id>
       <summary type="text">不得不佩服自己，再次入现货白银，同样的走在了赚钱的对面，至于最后亏多少，或者狗屎运好，赚回来，只有明早起床看了，决定了放任自由~</summary>
@@ -194,7 +194,7 @@ How-怎么学？碎片化时间学习，算一个热门的词，但静下来想�
   
     <entry>
       <title>散户教训</title>
-      <link href="http://dreaminlake.com/retail-invest-1.html" />
+      <link href="https://dreaminlake.com/retail-invest-1.html" />
       <updated>2015-03-12T00:28:00+08:00</updated>
       <id>retail-invest-1</id>
       <summary type="text">当了次现货中的散户，用了7k买了个教训，永远不要做自己不熟悉的事情。</summary>
@@ -202,7 +202,7 @@ How-怎么学？碎片化时间学习，算一个热门的词，但静下来想�
   
     <entry>
       <title>胆大心细脸皮厚</title>
-      <link href="http://dreaminlake.com/how-to-make-friends-with-a-girl.html" />
+      <link href="https://dreaminlake.com/how-to-make-friends-with-a-girl.html" />
       <updated>2015-03-10T23:01:00+08:00</updated>
       <id>how-to-make-friends-with-a-girl</id>
       <summary type="text">奢侈品，尚能消费； </summary>
@@ -210,7 +210,7 @@ How-怎么学？碎片化时间学习，算一个热门的词，但静下来想�
   
     <entry>
       <title>宇宙很大，我们很小</title>
-      <link href="http://dreaminlake.com/universe-vs-we.html" />
+      <link href="https://dreaminlake.com/universe-vs-we.html" />
       <updated>2015-03-06T00:18:00+08:00</updated>
       <id>universe-vs-we</id>
       <summary type="text">The most precious possession that ever comes to a man in this world is a woman’s heart.</summary>
@@ -218,7 +218,7 @@ How-怎么学？碎片化时间学习，算一个热门的词，但静下来想�
   
     <entry>
       <title>When I'm quiet</title>
-      <link href="http://dreaminlake.com/When-I-m-quiet.html" />
+      <link href="https://dreaminlake.com/When-I-m-quiet.html" />
       <updated>2015-01-04T13:04:00+08:00</updated>
       <id>When-I-m-quiet</id>
       <summary type="text">1)tired </summary>
@@ -226,7 +226,7 @@ How-怎么学？碎片化时间学习，算一个热门的词，但静下来想�
   
     <entry>
       <title>Linode控制台介绍</title>
-      <link href="http://dreaminlake.com/Linode-dashboard.html" />
+      <link href="https://dreaminlake.com/Linode-dashboard.html" />
       <updated>2014-12-15T22:07:00+08:00</updated>
       <id>Linode-dashboard</id>
       <summary type="text">本文介绍哈由Linode自己独立开发与维护的Linode VPS的控制面板，方面大家管理自己的VPS，先上图给大家过过眼~o~
@@ -235,7 +235,7 @@ Dashboard部分介绍</summary>
   
     <entry>
       <title>Linode的配置和部署</title>
-      <link href="http://dreaminlake.com/Linode-build.html" />
+      <link href="https://dreaminlake.com/Linode-build.html" />
       <updated>2014-12-15T12:04:00+08:00</updated>
       <id>Linode-build</id>
       <summary type="text">Linode VPS 控制后台可以让我们方便快捷的创建一个新的磁盘和安装全新的Linux操作系统，让我们来看看具体的操作步骤：</summary>
@@ -243,7 +243,7 @@ Dashboard部分介绍</summary>
   
     <entry>
       <title>Linode 介绍</title>
-      <link href="http://dreaminlake.com/Linode-Introduction.html" />
+      <link href="https://dreaminlake.com/Linode-Introduction.html" />
       <updated>2014-12-04T21:10:00+08:00</updated>
       <id>Linode-Introduction</id>
       <summary type="text">玩站的你还在用虚拟空间吗？还在担心自己的小站要受隔壁不良信息站牵连吗？不小心跟折腾君做了邻居，三天两天的折腾，受够了吗？还在为天朝的北岸发愁吗？担心国内或者国外服务提供商圈钱跑路吗？让我给你介绍稳定性、性价比最高的VPS提供商，VPS主机具有领路者地位的Linode了。</summary>
@@ -251,7 +251,7 @@ Dashboard部分介绍</summary>
   
     <entry>
       <title>centos下用sendmail配置简单的邮件服务器</title>
-      <link href="http://dreaminlake.com/use-sendmail-in-centos.html" />
+      <link href="https://dreaminlake.com/use-sendmail-in-centos.html" />
       <updated>2014-12-04T07:46:00+08:00</updated>
       <id>use-sendmail-in-centos</id>
       <summary type="text">昨天实现了centos下用curl监控网站运行状态，log分为了所有记录和错误记录的文件，就有想当网站不能正常访问时，可以用邮件将错误日志传给网站所有者，再利用手机随时收取邮件掌控网站运行状态。</summary>
@@ -259,7 +259,7 @@ Dashboard部分介绍</summary>
   
     <entry>
       <title>centos下用curl监控网站运行状态</title>
-      <link href="http://dreaminlake.com/how-to-monitor-website-with-curl.html" />
+      <link href="https://dreaminlake.com/how-to-monitor-website-with-curl.html" />
       <updated>2014-12-02T21:28:00+08:00</updated>
       <id>how-to-monitor-website-with-curl</id>
       <summary type="text">在centos环境，使用curl抓取网站页面，编写shell脚本，crontab添加计划任务，最终达到监控网站的运行状态。</summary>
@@ -267,7 +267,7 @@ Dashboard部分介绍</summary>
   
     <entry>
       <title>看好你的爱机</title>
-      <link href="http://dreaminlake.com/keep-your-eye-on-your-mobile.html" />
+      <link href="https://dreaminlake.com/keep-your-eye-on-your-mobile.html" />
       <updated>2014-06-18T22:36:00+08:00</updated>
       <id>keep-your-eye-on-your-mobile</id>
       <summary type="text">            Android源码的开放性，始终会被有心计的厂商利用，据海外安全类博客爆料，来自深圳天星手机科技有限公司型号为&quot;N9500&quot; 的Android机预装了 Uupay.D木马程序，其可以冒充Google Play应用，影响用户本地化，拦截和记录，采购信息，银行欺诈如盗取手机TANs或者发送不经许可的高价服务短信，发送用户信息至位于国内的某服务器，无法得知这些数据将被谁利用来做什么。消费者很容易受到Android机低价的诱惑，而忽略了个人信息的安全性。
@@ -276,7 +276,7 @@ Dashboard部分介绍</summary>
   
     <entry>
       <title>阿里八百的发财路</title>
-      <link href="http://dreaminlake.com/Alibaba-UC.html" />
+      <link href="https://dreaminlake.com/Alibaba-UC.html" />
       <updated>2014-06-11T21:46:00+08:00</updated>
       <id>Alibaba-UC</id>
       <summary type="text">还是大学党时就在使用UC浏览器了，Java版本的安装在正方形屏幕的Nokia 6030上，躺在床上，看看小说，观关美图，是多么享受的事情啊，再也找不回当年的青春年华了。诺基亚Nokia也已成为微软的囊中之物了，6030早已退役了，UC浏览器还在，其公司UC优视从2004年至今，已经拥有UC浏览器、神马搜索、UC九游、PP助手等多个行业领先的移动互联网产品及平台，发生在今天的UC优视并入阿里集团不愧为互联网迄今最大合并案！</summary>
@@ -284,7 +284,7 @@ Dashboard部分介绍</summary>
   
     <entry>
       <title>鸿海富士康的零售之路</title>
-      <link href="http://dreaminlake.com/Foxconn-Seller.html" />
+      <link href="https://dreaminlake.com/Foxconn-Seller.html" />
       <updated>2014-06-10T21:46:00+08:00</updated>
       <id>Foxconn-Seller</id>
       <summary type="text">   @哥今天猛然间发现各大媒体不约而同的唱衰富士康的电商项目-富连网，而起因只是富连网的天猫官方旗舰店在618电商“多国杀”中进行富可视商品促销活动。鸿海创始人郭台铭在2009年就表示是鸿海富士康要踢掉代工标签，跳出劳动密集型产业，转型其他产业，提升营业额，赚取更多钱，不辜负广大鸿海股民的期望。因此，2009年富士康推线下“万马奔腾”计划，欲借助富士康员工的人力资源，3年发展万家连锁店；2009年12月，富士康推出“飞虎乐购”电子商务平台，欲借助Apple、HP等品牌效应，做好3C电子商品的最后一公里；2010年富士康与麦德龙合资成立“万得城”，欲建立一站式消费体验门面；2013年4月富士康旗下子公司富智康推富连网电子商务企业公司，定位销售富士康代工品牌的产品拓展在线销售渠道。而今，“万马奔腾”项目已经没有声音了，万得城也于2013年3月11日关门，“飞虎乐购”也成为了“富士康百万员工专属网购乐园”，富连网则采用国内目前最火的购物平台-天猫上线了。或许，如果没有618购物节（电商大战），众多吐槽的媒体们，还不知道富连网已经在天猫开整很久了，富可视的电视、平板、手机早就通过天猫这个平台送达全国各个屌丝家里了，屌丝的称谓只是@哥发觉富可视的东西还真是便宜，质量也得到了各屌丝的认同，毕竟来源于富士康。
@@ -294,7 +294,7 @@ Dashboard部分介绍</summary>
   
     <entry>
       <title>吐槽之WWDC14两面苹果</title>
-      <link href="http://dreaminlake.com/WWDC14-non-innovate.html" />
+      <link href="https://dreaminlake.com/WWDC14-non-innovate.html" />
       <updated>2014-06-03T23:01:00+08:00</updated>
       <id>WWDC14-non-innovate</id>
       <summary type="text">备受关注的WWDC14没有iWatch，没有iBeats；有的只是开幕式前都爆出的 iOS8 和 OS X Yosemite；没有任何硬件，有的只是软件的升级；iOS8没有更多的亮点，有的都是开幕式前的透露出的东西；OS XYosemite同样是大家想象中的与iOS的融合。或许，你会说这届开发者大会，真的很菜，没有什么意义。但是请稍稍的注意，作为商人的库克，或者是说Apple，开始正视对手了，或者说是站起来对对手下战书了。</summary>
@@ -302,7 +302,7 @@ Dashboard部分介绍</summary>
   
     <entry>
       <title>屌丝记</title>
-      <link href="http://dreaminlake.com/Diors-Man.html" />
+      <link href="https://dreaminlake.com/Diors-Man.html" />
       <updated>2014-02-24T23:28:00+08:00</updated>
       <id>Diors-Man</id>
       <summary type="text">莫名的烦躁</summary>
@@ -310,7 +310,7 @@ Dashboard部分介绍</summary>
   
     <entry>
       <title>联想吃掉摩托走向土豪</title>
-      <link href="http://dreaminlake.com/Lenovo-merger-Motorola-Mobility.html" />
+      <link href="https://dreaminlake.com/Lenovo-merger-Motorola-Mobility.html" />
       <updated>2014-02-05T15:52:00+08:00</updated>
       <id>Lenovo-merger-Motorola-Mobility</id>
       <summary type="text">引自网络新闻，联想在2014年1月29日于美国宣布，将以29亿美元价格从谷歌手中收购摩托罗拉移动(Motorola Mobility)智能手机业务，其中包括3500名员工、2000项专利、品牌和注册商标。</summary>
@@ -318,7 +318,7 @@ Dashboard部分介绍</summary>
   
     <entry>
       <title>慢慢的就老了</title>
-      <link href="http://dreaminlake.com/Growing-old.html" />
+      <link href="https://dreaminlake.com/Growing-old.html" />
       <updated>2013-12-08T01:30:00+08:00</updated>
       <id>Growing-old</id>
       <summary type="text">活着活着就老了，想想前段时间的养老问题，加上这段时间工作上的不如意，不由愁上心头！拿什么来拯救自己，青春已在早七点晚十一点死水般的工作吞噬了，爱情，对于自己无疑就是奢侈品！找个知根知底知心的人，真的难，说是感觉，或许只是一个借口，最大的压力来自年关，回家见父母。 呵呵，这真是苦笑！人生只有两条路，一个是出门，一个是回家。家的感觉是什么？无言以对，尚且不用谈论老了怎么办，先得解决目前遇到的一大问题，婚姻，不单是老爸老妈要问的了，办公室的老板们都开始八卦了，生活和工作总会无形中扯在一起。相爱无非是，我疼你一点，你疼我一点。现实总是要比理论复杂很多，公交上遇到一单身美女，你一句，我一句，看上去还很合拍，分离时，还是觉得：这事要有多不靠谱，就有多不靠谱！最后还是不知道明天干什么，或许，这就是耗费着自己的青春吧！唠叨中，纪念慢慢逝去的青春。</summary>
@@ -326,7 +326,7 @@ Dashboard部分介绍</summary>
   
     <entry>
       <title>PC出货量继续下跌</title>
-      <link href="http://dreaminlake.com/PC-market-losing.html" />
+      <link href="https://dreaminlake.com/PC-market-losing.html" />
       <updated>2013-11-17T13:19:00+08:00</updated>
       <id>PC-market-losing</id>
       <summary type="text">年初时，华尔街日报有报道，由于受市场份额不断下跌的影响，惠普、联想和宏基正在努力的收回外包业务，作为PC代工大佬广达董事长林百里(Barry Lam) 却表示，除苹果公司外，大多数个人电脑厂商没有自主设计能力，它们只能继续求助于ODM。ODM即“原设计制造商”，现在基本上有广达、英业达、仁宝、纬创、和硕、富士康等台湾代工厂。目前PC的模式基本上是联想、惠普、宏基、戴尔等OEM工厂提出电脑的一个大体的设计框架即PDD（Product Define Document），而真正的设计和生产的细节由ODM工厂负责，基本上所有的设计从头至尾由ODM工厂完成，然后再将这些电脑交付给OEM工厂，最后OEM贴牌就到了市面上了。总体一句话讲，目前市面上除开苹果的其它品牌的电脑的设计都来自台湾的代工企业，而OEM工厂基本上没有什么自主设计能力，即使有点也是挖的ODM工厂的工程技术人员，这或许就是商业吧，无论是台湾还是大陆都是整个经济链的底层！</summary>
@@ -334,7 +334,7 @@ Dashboard部分介绍</summary>
   
     <entry>
       <title>谢谢你，敢与我相爱！</title>
-      <link href="http://dreaminlake.com/thank-you-for-your-love.html" />
+      <link href="https://dreaminlake.com/thank-you-for-your-love.html" />
       <updated>2013-10-13T23:56:00+08:00</updated>
       <id>thank-you-for-your-love</id>
       <summary type="text">我相信有一个我爱的男（女）人</summary>
@@ -342,7 +342,7 @@ Dashboard部分介绍</summary>
   
     <entry>
       <title>Win8.1和PC的春天</title>
-      <link href="http://dreaminlake.com/Windows8.1-for-PC-market.html" />
+      <link href="https://dreaminlake.com/Windows8.1-for-PC-market.html" />
       <updated>2013-10-04T11:26:00+08:00</updated>
       <id>Windows8.1-for-PC-market</id>
       <summary type="text">微软中国宣布，Win8.1将在10月17日晚上7点起通过Win8上的Windows Store免费为Win8用户进行更新推送。</summary>
@@ -350,7 +350,7 @@ Dashboard部分介绍</summary>
   
     <entry>
       <title>子非鱼</title>
-      <link href="http://dreaminlake.com/who-know-the-joy-of-a-fish.html" />
+      <link href="https://dreaminlake.com/who-know-the-joy-of-a-fish.html" />
       <updated>2013-09-08T22:26:00+08:00</updated>
       <id>who-know-the-joy-of-a-fish</id>
       <summary type="text">子非鱼怎知鱼未忆</summary>
@@ -358,7 +358,7 @@ Dashboard部分介绍</summary>
   
     <entry>
       <title>手机生态系统</title>
-      <link href="http://dreaminlake.com/iOS-Android-Windows-mobile-OS.html" />
+      <link href="https://dreaminlake.com/iOS-Android-Windows-mobile-OS.html" />
       <updated>2013-09-03T22:09:00+08:00</updated>
       <id>iOS-Android-Windows-mobile-OS</id>
       <summary type="text">手机业的又一重大事件，诺基亚(Nokia)的手机业务今天以71.4亿美金的标价被微软收入囊中，@哥之前在平板系统之争中有稍稍介绍哈目前的一些生态系统，手机的格局是真正意义的定下来了：苹果(Apple)的iOS，谷歌(Google)的Android，微软(Microsoft)的Windows Phone。</summary>
@@ -366,7 +366,7 @@ Dashboard部分介绍</summary>
   
     <entry>
       <title>静看PC行当的消亡</title>
-      <link href="http://dreaminlake.com/PC-no-hope.html" />
+      <link href="https://dreaminlake.com/PC-no-hope.html" />
       <updated>2013-08-30T22:24:00+08:00</updated>
       <id>PC-no-hope</id>
       <summary type="text">IDC再度下调今年全球PC出货量预期，不得不说做数据的始终比什么排名公司市场觉悟强一些，福布斯的前期报道说平板、手机不能取代PC的原因是PC的功能强于前者，@哥不得不说，福布斯是在怎么理会整个PC行业呢？</summary>
@@ -374,7 +374,7 @@ Dashboard部分介绍</summary>
   
     <entry>
       <title>柯达回来了</title>
-      <link href="http://dreaminlake.com/kodak-back.html" />
+      <link href="https://dreaminlake.com/kodak-back.html" />
       <updated>2013-08-21T21:59:00+08:00</updated>
       <id>kodak-back</id>
       <summary type="text">@哥不得不承认自己蛮怀旧的，今天看到一条利好信息，柯达公司获准脱离破产保护，百年柯达（kodak），想想去年听说柯达破产了，不禁有点舍不得，@哥之前的一个梦想就是拿柯达的胶卷相机，四处流浪，呵呵~</summary>
@@ -382,7 +382,7 @@ Dashboard部分介绍</summary>
   
     <entry>
       <title>电视平台成新的战场</title>
-      <link href="http://dreaminlake.com/TV-market.html" />
+      <link href="https://dreaminlake.com/TV-market.html" />
       <updated>2013-07-28T10:02:00+08:00</updated>
       <id>TV-market</id>
       <summary type="text">随着谷姐推出的电视棒 Chromecast ，电视这个载体成了科技公司争夺的新的平台，各家都希望将人们重新吸引回电视机前，一家人坐在电视前一边看电视，一边交谈促进感情，看上去好温馨啊。</summary>
@@ -390,7 +390,7 @@ Dashboard部分介绍</summary>
   
     <entry>
       <title>平板系统之争</title>
-      <link href="http://dreaminlake.com/tablet-OS.html" />
+      <link href="https://dreaminlake.com/tablet-OS.html" />
       <updated>2013-07-21T22:50:00+08:00</updated>
       <id>tablet-OS</id>
       <summary type="text">随着PC行业的衰退，平板（tablet）则大受市场欢迎，甚至有大神预测平板会最终取代PC的地位！@哥这次倒不是跟大家神侃PC和平板谁好谁坏，只是来简单介绍哈现今平板的一些系统，欢迎大家拍砖。</summary>
@@ -398,7 +398,7 @@ Dashboard部分介绍</summary>
   
     <entry>
       <title>联想终成PC老大</title>
-      <link href="http://dreaminlake.com/Lenovo-PC-No.1.html" />
+      <link href="https://dreaminlake.com/Lenovo-PC-No.1.html" />
       <updated>2013-07-11T22:14:00+08:00</updated>
       <id>Lenovo-PC-No.1</id>
       <summary type="text">尽管PC市场逐渐萎缩，但是老大的名号还是值得众品牌厂哄抢的，根据IDC和Gartner分别在今天发布的2013年第二季度行业数据，联想全球市场份额达到16.7%，高于此前的全球第一惠普，已成为全球最大的个人电脑供应商。</summary>
@@ -406,7 +406,7 @@ Dashboard部分介绍</summary>
   
     <entry>
       <title>财富500强看PC市场</title>
-      <link href="http://dreaminlake.com/fortune-500-with-PC.html" />
+      <link href="https://dreaminlake.com/fortune-500-with-PC.html" />
       <updated>2013-07-10T22:18:00+08:00</updated>
       <id>fortune-500-with-PC</id>
       <summary type="text">7月8日晚，财富中文网(www.fortunechina.com)与英文网全球同步发布2013年《财富》世界500强排行榜。</summary>
@@ -414,7 +414,7 @@ Dashboard部分介绍</summary>
   
     <entry>
       <title>经常大姨妈的谷姐</title>
-      <link href="http://dreaminlake.com/GFW-vs-Google.html" />
+      <link href="https://dreaminlake.com/GFW-vs-Google.html" />
       <updated>2013-06-22T19:37:00+08:00</updated>
       <id>GFW-vs-Google</id>
       <summary type="text">实践证明@哥还是关注天下事的哦，今天有新闻美国正式起诉斯诺登并已要求香港将其逮捕，香港警务处处长：会按香港法律处理斯诺登事件；国家强大了还是值得我们这些屁民高兴哈哈，尽管跟哥基本没啥关系。</summary>
@@ -422,7 +422,7 @@ Dashboard部分介绍</summary>
   
     <entry>
       <title>平板电脑必将取代传统笔记本</title>
-      <link href="http://dreaminlake.com/iPad-or-PC.html" />
+      <link href="https://dreaminlake.com/iPad-or-PC.html" />
       <updated>2013-06-16T11:23:00+08:00</updated>
       <id>iPad-or-PC</id>
       <summary type="text">@哥今天无意中看到两条新闻，其中一条是微软将在德克萨斯州举行的“美国国际教育协会年度会议”上向1万名教育工作者免费赠送Surface RT，另一条是惠普企业服务集团宣布推出增强型服务，实现以用户为中心的应用设计与开发流程。一个是实实在在的优惠，1万台平板电脑免费到达消费者的手中的微软（Microsoft）；另一个是理论一大堆且被消费者冠以“黑屏”、“花屏”、“黄屏”、“很破”等称呼的惠普（HP），反正@哥是没有找到所谓的“增强型服务”是什么名堂。</summary>
@@ -430,7 +430,7 @@ Dashboard部分介绍</summary>
   
     <entry>
       <title>苹果MacBook Air</title>
-      <link href="http://dreaminlake.com/Apple-MacBook-Air.html" />
+      <link href="https://dreaminlake.com/Apple-MacBook-Air.html" />
       <updated>2013-06-11T10:16:00+08:00</updated>
       <id>Apple-MacBook-Air</id>
       <summary type="text">苹果Apple2013年全球开发者大会给我们带来了小升级的苹果轻薄笔记本MacBook Air。在 英特尔超极本™ 规范 中观摩了新一代超极本的规范，可是对比苹果的MacBook Air，发现各家PC的OEM/ODM还得加油啊！</summary>
@@ -438,7 +438,7 @@ Dashboard部分介绍</summary>
   
     <entry>
       <title>英特尔超极本™ 规范</title>
-      <link href="http://dreaminlake.com/Intel-Ultrabook.html" />
+      <link href="https://dreaminlake.com/Intel-Ultrabook.html" />
       <updated>2013-06-09T20:32:00+08:00</updated>
       <id>Intel-Ultrabook</id>
       <summary type="text">通过近两年Gartner和IDC的统计数据，我们都可以发现PC市场里除了联想市场有上涨，其他OEM的数据都不好看，更有PC市场头把交椅的惠普HP传出要分割PC硬件的消息。这可把英特尔Intel和微软Microsoft急坏了，你们都不玩PC，我们两家公司去喝西北风啊，可不能让苹果Apple趁着这机会一直狂吸金啊！</summary>
@@ -446,7 +446,7 @@ Dashboard部分介绍</summary>
   
     <entry>
       <title>新起点新目标</title>
-      <link href="http://dreaminlake.com/new-goal.html" />
+      <link href="https://dreaminlake.com/new-goal.html" />
       <updated>2013-06-08T21:04:00+08:00</updated>
       <id>new-goal</id>
       <summary type="text">@哥看了之前吐水的文章，终于决定推到重来了，防止后续看到有删除的冲动啊！</summary>
@@ -454,7 +454,7 @@ Dashboard部分介绍</summary>
   
     <entry>
       <title>无奈的犀利哥</title>
-      <link href="http://dreaminlake.com/sharp-brother.html" />
+      <link href="https://dreaminlake.com/sharp-brother.html" />
       <updated>2010-03-09T09:42:00+08:00</updated>
       <id>sharp-brother</id>
       <summary type="text">我真的很害怕</summary>
@@ -462,7 +462,7 @@ Dashboard部分介绍</summary>
   
     <entry>
       <title>春节也就那样</title>
-      <link href="http://dreaminlake.com/bored-Spring-Festival.html" />
+      <link href="https://dreaminlake.com/bored-Spring-Festival.html" />
       <updated>2010-02-21T16:55:00+08:00</updated>
       <id>bored-Spring-Festival</id>
       <summary type="text">回家一趟发现，</summary>
@@ -470,7 +470,7 @@ Dashboard部分介绍</summary>
   
     <entry>
       <title>比悲伤还悲伤的故事</title>
-      <link href="http://dreaminlake.com/a-story-sadder-than-sadness.html" />
+      <link href="https://dreaminlake.com/a-story-sadder-than-sadness.html" />
       <updated>2009-09-22T14:35:00+08:00</updated>
       <id>a-story-sadder-than-sadness</id>
       <summary type="text">一个男人快死了…</summary>
@@ -478,7 +478,7 @@ Dashboard部分介绍</summary>
   
     <entry>
       <title>男儿志在四方意义何在？</title>
-      <link href="http://dreaminlake.com/boy-ambition.html" />
+      <link href="https://dreaminlake.com/boy-ambition.html" />
       <updated>2009-09-16T16:45:00+08:00</updated>
       <id>boy-ambition</id>
       <summary type="text">似乎“男儿志在四方”是说有志走出家乡的，并要四处看看…</summary>
@@ -486,7 +486,7 @@ Dashboard部分介绍</summary>
   
     <entry>
       <title>生活中的现实与理想</title>
-      <link href="http://dreaminlake.com/reality-or-ideality.html" />
+      <link href="https://dreaminlake.com/reality-or-ideality.html" />
       <updated>2009-09-13T19:37:00+08:00</updated>
       <id>reality-or-ideality</id>
       <summary type="text">生活中的现实与理想</summary>
@@ -494,7 +494,7 @@ Dashboard部分介绍</summary>
   
     <entry>
       <title>工作有点烦</title>
-      <link href="http://dreaminlake.com/job-trouble.html" />
+      <link href="https://dreaminlake.com/job-trouble.html" />
       <updated>2009-09-13T19:17:00+08:00</updated>
       <id>job-trouble</id>
       <summary type="text">原来想象中的工作不是这样子的啊</summary>
@@ -502,7 +502,7 @@ Dashboard部分介绍</summary>
   
     <entry>
       <title>离去了</title>
-      <link href="http://dreaminlake.com/graduation-leave.html" />
+      <link href="https://dreaminlake.com/graduation-leave.html" />
       <updated>2009-06-29T12:00:00+08:00</updated>
       <id>graduation-leave</id>
       <summary type="text">走了吧</summary>
@@ -510,7 +510,7 @@ Dashboard部分介绍</summary>
   
     <entry>
       <title>卖书了</title>
-      <link href="http://dreaminlake.com/graduation-sell.html" />
+      <link href="https://dreaminlake.com/graduation-sell.html" />
       <updated>2009-06-24T19:59:00+08:00</updated>
       <id>graduation-sell</id>
       <summary type="text">今天下午忍痛把书卖了……</summary>
