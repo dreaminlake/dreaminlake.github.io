@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 孩子真正的起跑线，是父母
-date: 2018-06-05 01:16:00+0800
+date: 2018-06-05 01:15:00+0800
 thumb: IMG_PATH/avatar.jpg
 tags: [起跑线, 教育, 成功]
 category: life
