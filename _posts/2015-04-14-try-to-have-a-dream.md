@@ -5,6 +5,7 @@ date: 2015-04-14 23:58:00+0800
 layout: post
 thumb: IMG_PATH/avatar.jpg
 category: life
+music-id: 27571001
 ---
 
 好好学习，天天向上

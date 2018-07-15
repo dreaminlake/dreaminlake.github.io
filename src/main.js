@@ -165,7 +165,7 @@ document.addEventListener('DOMContentLoaded', function(event) {
     var disq = new iDisqus('comment', {
         forum: 'dreaminlake',
         site: 'https://dreaminlake.com',
-        api: 'http://api.fooleap.org/disqus',
+        api: 'https://api.fooleap.org/disqus',
         title:  page.title,
         url: page.url,
         mode: 3,
@@ -175,7 +175,7 @@ document.addEventListener('DOMContentLoaded', function(event) {
         init: true,
         toggle: 'comment-toggle',
         sort: 'newest',
-        emoji_path: 'http://api.fooleap.org/emoji/unicode/',
+        emoji_path: 'https://api.fooleap.org/emoji/unicode/',
         emoji_preview: true,
         badge: '博主'
     });

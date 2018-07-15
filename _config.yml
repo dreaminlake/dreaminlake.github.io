@@ -18,7 +18,7 @@ kramdown:
   toc_levels:     '2,3'
   smart_quotes:   lsquo,rsquo,ldquo,rdquo
 emoji:
-    src: 'http://api.fooleap.org'
+    src: 'https://api.fooleap.org'
 paginate: 10
 repository: dreaminlake/dreaminlake.github.io
 
