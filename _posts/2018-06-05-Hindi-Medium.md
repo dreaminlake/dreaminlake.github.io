@@ -26,4 +26,4 @@ category: life
 
 换句更直白的话，教育的根本，是让你知道怎么好好做人。
 
-<video width="100%"  src="http://113.105.248.47/10/t/k/q/g/tkqgnkijfffmzuslgraksfmbtpkzws/hc.yinyuetai.com/D9C3015F7D7776855157F9C540E9078C.mp4?sc=5703ec2440143f57" controls loop>Your browser does not support the <code>video</code> element.</video>
+{% include media.html type="video" src="http://113.105.248.47/10/t/k/q/g/tkqgnkijfffmzuslgraksfmbtpkzws/hc.yinyuetai.com/D9C3015F7D7776855157F9C540E9078C.mp4?sc=5703ec2440143f57" %}
