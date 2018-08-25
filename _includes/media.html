@@ -9,12 +9,6 @@
 <div class="iframe-{{ include.mode }}-container">
     <iframe class="iframe" src="/video.html?vid={{ include.vid }}&mode={{ include.mode }}"></iframe>
 </div>
-
-{% when "music" %}
-<div class="iframe-container1">
-    <iframe  src="//music.163.com/outchain/player?type=2&id={ { page.music-id } }&auto=1&height=66"></iframe>
-</div>
-
 {% else %}
 <iframe src="{{ include.src }}" width="{{ include.width }}" height="{{ include.height }}" seamless="seamless" scrolling="no" frameborder="0"></iframe>
 {% endcase %}

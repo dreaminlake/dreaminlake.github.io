@@ -9,7 +9,7 @@ category: tech
 
 一.Gravatar头像图片显示问题
 
-第一种方法还是用Gravatar头像，需要修改typecho文件，程序升级后需要重复修改，即在var/Typecho/Common.php的第939行将www.gravatar.com中的www.去掉！=>现在我也是用的该方法，借鉴于[不带诗情画意](http://blog.huangweipeng.org/Typecho-solve-the-gravatar-picture-could-not-be-loaded.html)
+第一种方法还是用Gravatar头像，需要修改typecho文件，程序升级后需要重复修改，即在var/Typecho/Common.php的第939行将www.gravatar.com中的www.去掉！=>现在我也是用的该方法，借鉴于[不带诗情画意]
 
 第二种方法是使用本地头像，即使用头像缓存插件，请找度娘......
 
@@ -22,8 +22,8 @@ category: tech
 在footer.php页面增加如下代码（可直接参考我的JS代码，注意将其中的图片定义为你自己喜欢的）：
   
 <!-- Start of Go-Top Code -->
-<script type="text/javascript" src="http://qiniu.dreaminlake.com/jquery-1.11.1.min.js"></script>
-<script type="text/javascript" src="http://qiniu.dreaminlake.com/go-top.js"></script>
+<script type="text/javascript" src="https://qiniu.dreaminlake.com/jquery-1.11.1.min.js"></script>
+<script type="text/javascript" src="https://qiniu.dreaminlake.com/go-top.js"></script>
 <!-- End of Go-Top Code -->
   
 
