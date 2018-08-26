@@ -9,7 +9,7 @@ category: life
 
 &emsp;&emsp;在北京的每条胡同里，都住着一个灰姑娘，这姑娘跟一般的灰姑娘不一样，她是真的灰姑娘，身上到处都是灰。因为北京风沙特别大，而且北京胡同都是灰色的，为什么是灰色的？就是一刮风沙的时候，这姑娘就在胡同里跑，一跑扬的到处都是灰。这姑娘每天就灰头土脸的，我们北京管姑娘不叫姑娘，叫丫头，所以她是一灰丫头。
 
-<video width="100%"  src="https://vodkgeyttp8.vod.126.net/vodkgeyttp8/gWO55kgc_140464642_shd.mp4?wsSecret=4a15b9aae3fb47114c26599751512afc&wsTime=1535237825" controls loop>Your browser does not support the <code>video</code> element.</video>
+<video width="100%"  src="https://video.pearvideo.com/mp4/short/20180723/cont-1393763-12514287_pkg-hd.mp4" controls loop>Your browser does not support the <code>video</code> element.</video>
 
 &emsp;&emsp;灰丫头在胡同里认识了一个灰小子，这灰小子一直以为自己是一王子，我们北京管王子也不叫王子，有的时候叫阿哥。灰阿哥就爱上了这个灰丫头，灰丫头也爱上了灰阿哥，俩人就青春期，这段你别听（扭头冲楼梯上的老头说的）青春期时候俩人就好上了，好上之后灰丫头长大了，忽然发现灰阿哥没有变成她梦中那个白马王子。结果这灰阿哥变成了一个灰太狼。
 &emsp;&emsp;于是灰丫头就决定离开这胡同，上大街上去，哪条街宽就上哪条街。东单大街、五四大街、西单大街、长安街、后来有了四环路五环路六环路，灰丫头终于遇见了白马王子，也变成了美丽的公主。
